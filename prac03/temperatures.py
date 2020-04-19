@@ -2,6 +2,7 @@
 
 """Author: Nang Seng Khan
    Date: 04/03/2020 
+   link: https://github.com/NANGSENGKHAN/cp1404practicals
 """
 
 # Note: this is a constant, so it is global, defined before main
