@@ -3,6 +3,9 @@ CP1404/CP5632 Practical
 Starter code for cumulative total income program
 """
 
+"""Author: Nang Seng Khan
+   Date: 20/04/2020 
+"""
 
 def main():
     """Display income report for incomes over a given number of months."""
