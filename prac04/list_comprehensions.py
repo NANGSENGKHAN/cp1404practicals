@@ -5,6 +5,7 @@ List comprehensions
 
 """Author: Nang Seng Khan
    Date: 20/04/2020 
+   link: https://github.com/NANGSENGKHAN/cp1404practicals
 """
 
 names = ["Bob", "Angel", "Jimi", "Alan", "Ada"]
