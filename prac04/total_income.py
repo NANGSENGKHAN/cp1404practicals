@@ -5,6 +5,7 @@ Starter code for cumulative total income program
 
 """Author: Nang Seng Khan
    Date: 20/04/2020 
+   link: https://github.com/NANGSENGKHAN/cp1404practicals
 """
 
 
