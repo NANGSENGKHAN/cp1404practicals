@@ -1,6 +1,7 @@
 """
 CP1404/CP5632 Practical
 Data file -> List exercises
+link: https://github.com/NANGSENGKHAN/cp1404practicals
 """
 
 """Author: Nang Seng Khan
