@@ -1,3 +1,13 @@
+"""
+CP1404/CP5632 Practical
+Guitar program.
+"""
+
+"""Author: Nang Seng Khan
+   Date: 02/05/2020
+   link: https://github.com/NANGSENGKHAN/cp1404practicals
+"""
+
 from datetime import datetime
 
 

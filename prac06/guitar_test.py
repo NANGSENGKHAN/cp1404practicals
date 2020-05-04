@@ -1,3 +1,13 @@
+"""
+CP1404/CP5632 Practical
+Guitar program.
+"""
+
+"""Author: Nang Seng Khan
+   Date: 02/05/2020
+   link: https://github.com/NANGSENGKHAN/cp1404practicals
+"""
+
 """Gibson L-5 CES get_age() - Expected 98. Got 98
 Another Guitar get_age() - Expected 7. Got 7
 Gibson L-5 CES is_vintage() - Expected True. Got True
