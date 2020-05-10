@@ -1,3 +1,7 @@
+"""Author: Nang Seng Khan
+   Date: 10/05/2020
+   link: https://github.com/NANGSENGKHAN/cp1404practicals
+"""
 
 import random
 from kivy.app import App
