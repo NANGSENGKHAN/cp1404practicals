@@ -62,5 +62,4 @@ def demo_walk():
 
 if __name__ == '__main__':
     main()
-
-# demo_walk()
+    demo_walk()
